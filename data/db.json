@@ -1,0 +1,95 @@
+ {
+    "products":[
+
+      {
+        "id":1,
+        "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/1/t/k/s-all-3row-one-nb-nicky-boy-original-imagw96s4zgffryn.jpeg?q=70",
+        "name":"Nicky",
+        "price":700,
+        "stock":false
+      },
+      {
+        "id":2,
+        "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/u/z/v/xl-all-rbcpon-sky-one-nb-nicky-boy-original-imagrdhka9mzrn5d.jpeg?q=70",
+        "name":"Nicky",
+        "price":550,
+        "stock":true
+      },
+      {
+        "id":3,
+        "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/b/f/0/l-ausk0622-ausk-original-imagvfpfszrgzzar.jpeg?q=70",
+        "name":"Ausk",
+        "price":700,
+        "stock":true
+      },
+      {
+        "id":4,
+        "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/u/v/e/xxl-alkpcurgfj18099-allen-solly-original-imaggzfskpqfxfrv.jpeg?q=70",
+        "name":"Allen Solly",
+        "price":500,
+        "stock":true
+
+      },
+      {
+        "id":5,
+        "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/a/8/d/l-ctsmh5961e-black-cantabil-original-imaghs2qg5mqbnsx.jpeg?q=70",
+        "name":"Allen Solly",
+        "price":400,
+        "stock":true
+      },
+      {
+        "id":6,
+        "img":"https://rukminim2.flixcart.com/image/612/612/k7dnonk0/t-shirt/j/h/h/m-askpwrgf197024-allen-solly-original-imafphhpun7zugub.jpeg?q=70",
+        "name":"Allen Solly",
+        "price":400,
+        "stock":true
+      },
+      {
+        "id":7,
+        "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/d/2/y/s-xmkb05891-k8-parx-original-imagnzc2gnp8asqh.jpeg?q=70",
+        "name":"Allen Solly",
+        "price":200,
+        "stock":true
+      },
+      {
+        "id":8,
+        "img":"https://rukminim2.flixcart.com/image/612/612/koenl3k0/t-shirt/g/w/f/m-hood-215-checked-bw-lewel-original-imag2v6ehrcmgdvj.jpeg?q=70",
+        "name":"Allen Solly",
+        "price":800,
+        "stock":true
+      },
+      {
+        "id":9,
+        "img":"https://rukminim2.flixcart.com/image/612/612/kfoapow0-0/t-shirt/o/h/q/xl-cw0710white-adidas-original-imafw2k5fs29qaxu.jpeg?q=70",
+        "name":"Adidas",
+        "price":700,
+        "stock":false
+      },
+      {
+        "id":10,
+        "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/p/o/h/m-ix7167-adidas-original-imagt2zsm5ehuyfx.jpeg?q=70",
+        "name":"Levi's",
+        "price":500,
+        "stock":false
+      },
+      {
+        "id":11,
+        "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/t/c/d/-original-imagtuzw3ewj3qv6.jpeg?q=70",
+        "name":"Puma",
+        "price":400,
+        "stock":false
+      },
+      {
+        "id":12,
+        "img":"https://rukminim2.flixcart.com/image/612/612/l1ch4sw0/t-shirt/0/i/n/xxl-ht3391-adidas-original-imagcxhwwhhg4xtg.jpeg?q=70",
+        "name":"Adidas",
+        "price":500,
+        "stock":true
+      }
+
+      
+
+    
+
+    ]
+  }

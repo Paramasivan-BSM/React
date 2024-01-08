@@ -1,0 +1,24 @@
+.fetch{
+    display: inline-flex;
+    margin: 20px;
+  }
+  .instock {
+    background-color: rgb(48, 233, 48);
+    color: whitesmoke;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    /* Add other styles for in stock */
+  }
+  
+  .outofstock {
+    background-color: red;
+    color: whitesmoke;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+
+    /* Add other styles for out of stock */
+  }
+  
+  
